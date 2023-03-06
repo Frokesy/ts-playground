@@ -1,1 +1,1 @@
-console.log("Project initialized")
+console.log("app initiated")
